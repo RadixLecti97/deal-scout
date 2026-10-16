@@ -1,0 +1,13 @@
+{
+  "article_1.txt": {"deal_type": "merger", "seller": "Concord", "buyer": "BMG", "asset": "Concord", "announced_date": "2026-04-28", "price_usd": null, "price_basis": "partial"},
+  "article_2.txt": {"deal_type": "catalog_sale", "seller": "Infamous", "buyer": "Avex Music Group", "asset": "Infamous Catalog", "announced_date": null, "price_usd": null, "price_basis": "undisclosed"},
+  "article_3.txt": {"deal_type": "company_acquisition", "seller": "Round Hill Music Royalty Fund", "buyer": "Concord Cadence", "asset": "Round Hill Music Royalty Fund", "announced_date": null, "price_usd": 468800000, "price_basis": "stated_total"},
+  "article_4.txt": {"deal_type": "company_acquisition", "seller": "Hipgnosis Songs Fund", "buyer": "Blackstone", "asset": "Hipgnosis Songs Fund", "announced_date": "2024-04-21", "price_usd": 1500000000, "price_basis": "reported"},
+  "article_5.txt": {"deal_type": "catalog_sale", "seller": "Recognition Music Group", "buyer": "Sony Music Publishing", "asset": "Hipgnosis Songs Group", "announced_date": null, "price_usd": null, "price_basis": "undisclosed"},
+  "article_6.txt": {"deal_type": "catalog_sale", "seller": "Britney Spears", "buyer": "Primary Wave", "asset": "Britney Spears Catalog", "announced_date": null, "price_usd": 200000000, "price_basis": "reported"},
+"article_7.txt": {"deal_type": "catalog_sale", "seller": "Tina Turner Estate", "buyer": "Pophouse Entertainment", "asset": "Tina Turner Catalog", "announced_date": null, "price_usd": null, "price_basis": "undisclosed"},
+  "article_8.txt": {"deal_type": "catalog_sale", "seller": "benny blanco", "buyer": "Litmus Music", "asset": "benny blanco Compositions", "announced_date": null, "price_usd": null, "price_basis": "undisclosed"},
+"article_9.txt": {"deal_type": "company_acquisition", "seller": "DistroKid", "buyer": "CVC Capital Partners", "asset": "DistroKid", "announced_date": "2026-07-06", "price_usd": 2000000000, "price_basis": "reported"},
+"article_10.txt": {"deal_type": "company_acquisition", "seller": "DistroKid", "buyer": "CVC Capital Partners", "asset": "DistroKid", "announced_date": "2026-07-06", "price_usd": null, "price_basis": "undisclosed"},
+"article_11.txt": {"deal_type": "company_acquisition", "seller": "Francisco Partners", "buyer": "Primary Wave", "asset": "Kobalt", "announced_date": "2026-07-07", "price_usd": 1500000000, "price_basis": "reported"}
+}
