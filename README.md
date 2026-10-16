@@ -1,6 +1,4 @@
-TLDR:
-Music Industry news article extractor using Claude API to train a model against manually labeled data found in labels.txt, which is then fine tuned and scored, improving from 89% -> 95% after additional rules added to LABELLING_GUIDE.md. 
-Main fine tuning of rules conducted in #Stage 6 and Known Issues section
+
 
 # Deal Scout: structured extraction and evals for music-industry deal news
 
@@ -8,6 +6,9 @@ Extracts structured deal data (deal type, seller, buyer, asset, date, price) fro
 
 The goal is an eval-driven AI product: every change to the prompt or schema is measured against labeled data instead of trusted by eye.
 
+TL;DR:
+Music Industry news article extractor using Claude API to train a model against manually labeled data found in labels.txt, which is then fine tuned and scored, improving from 89% -> 95% after additional rules added to LABELLING_GUIDE.md. 
+Main fine tuning of rules conducted in #Stage 6 and Known Issues section
 ## Repo layout
 
 | File | Purpose |
